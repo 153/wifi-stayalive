@@ -14,8 +14,9 @@ To use the script, open a dedicated terminal and enter these commands:
 
 The script will start and will print a number for the number of reconnects it acheives. 
 
-If you disconnect or need to restart the script, do this to reconnect:
-    Type ctrl+c to stop the utility from running
+If you disconnect or need to restart the script, type ctrl+c to stop the utility 
+from running, and enter this command:
+
     ~/stephouse.sh 
     
 Enjoy! If you have any problems, please contact me. 
